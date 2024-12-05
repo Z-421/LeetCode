@@ -1,7 +1,6 @@
 # LeetCode
 My solutions for LeetCode problems written in Python
 
-Colons can be used to align columns.
 
 | Problem                | Language      | Code  |
 | -----------------------|:-------------:| -----:|
